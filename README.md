@@ -1,2 +1,2 @@
 # tipos-de-css
-Exercício sobre os tipos de CSS: inline, embutido e externo.
+Exercício sobre os tipos de CSS: online, embutido e externo.
